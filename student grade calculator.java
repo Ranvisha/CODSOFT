@@ -1,5 +1,5 @@
 imoport java.util.Scanner;
-class grade{
+class studentgrade{
   public static void main(String args[]){
     Scanner input = new Scanner(System.in);
     System.out.println("enter the 6 subject marks");
